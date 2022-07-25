@@ -1,0 +1,37 @@
+
+
+p {
+    text-align: left;
+    font-size: 30px;
+}
+
+h1 {
+    text-align: center;
+    font-size: 100px;
+    text-align: center;
+	color:  blue;
+	height: 100px;
+	border: 10px solid #000000; 
+}
+
+h2 {
+    text-align: center;
+    font-size: 50px;
+}
+
+.imagem-principal {
+	background-color: #FFFF00;
+}
+
+.corpo {
+	background-color: orange;
+}
+
+#banner {
+
+	width: 99%;
+	padding-top: 10px;
+	padding-bottom: 10px;
+	margin-left: 10px;
+	margin-right: 10px;
+}
