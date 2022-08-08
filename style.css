@@ -39,3 +39,18 @@ h2 {
 	margin-left: 10px;
 	margin-right: 10px;
 }
+
+#imagem{
+	background-color: blue;
+}
+
+#img02 {
+    width: 50%;
+    border-color : yellow;
+    border-style: groove;
+    border-width: 30px;
+    margin-left: 300px; 
+    padding: 10px;
+}
+
+/*border: 30px groove yellow*/
