@@ -79,4 +79,13 @@ ul{
     border: 10px solid red;
 }
 
+.rodape {
+	background-color: yellow;
+	color: blue;
+	text-align: center;
+	font-size: 20 px;
+	font-style: italic;
+
+}
+
 /*border: 30px groove yellow*/
